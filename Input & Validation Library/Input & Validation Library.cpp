@@ -1,17 +1,24 @@
 #include <iostream>
-
 #include "clsInputValidate.h"
+#include "clsDate.h"
+using namespace std;
+
+
+
+
+
+
 
 int main()
 {
 
-	int num = 0;
-	cout << "plz enter a number between 1 and 10: " << clsInputValidate::ReadNumberBetween(1, 10) << endl;
-	cin >> num;
+	
+	
+	cout << "//////////////////////////" << endl;
+
+	cout<<clsInputValidate::IsNumberBetween<float>(5.3, 1.2, 10.4);
 
 
-
-
-
+	return 0;
 }
 

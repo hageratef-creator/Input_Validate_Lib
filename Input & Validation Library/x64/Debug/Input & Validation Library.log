@@ -1,2 +1,35 @@
 ﻿  Input & Validation Library.cpp
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\clsString.h(186,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\clsString.h(315,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\clsString.h(357,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Input%20&%20Validation%20Library.cpp')
+  
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,59): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,59): warning C4305:         with
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,59): warning C4305:         [
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,59): warning C4305:             T=float
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,59): warning C4305:         ]
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,54): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,54): warning C4305:         with
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,54): warning C4305:         [
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,54): warning C4305:             T=float
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,54): warning C4305:         ]
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,49): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,49): warning C4305:         with
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,49): warning C4305:         [
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,49): warning C4305:             T=float
+C:\Users\SMILE  2022\source\repos\Input & Validation Library\Input & Validation Library\Input & Validation Library.cpp(20,49): warning C4305:         ]
   Input & Validation Library.vcxproj -> C:\Users\SMILE  2022\source\repos\Input & Validation Library\x64\Debug\Input & Validation Library.exe
